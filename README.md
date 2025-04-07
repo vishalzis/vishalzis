@@ -6,11 +6,7 @@
 - 🧠 Passionate about designing **microservices architectures** and writing clean, maintainable code
 - 🌐 Exploring full-stack development with **React.js** and **Next.js**
 - 💬 Ask me about: Backend architecture, API design, messaging queues, or system scalability
-- 🤝 I’m open to collaborating on:
-  - Backend-heavy projects (especially involving microservices or event-driven architecture)
-  - Open-source tools that improve developer experience
-  - Real-time data or messaging systems
-  - 
+
 - ⚡ Fun fact: I debug faster with coffee ☕ and dark mode 🌙
 
 ---
